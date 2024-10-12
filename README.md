@@ -1,3 +1,16 @@
+# Push to Your GitHub Repository
+Run command in terminal 
+
+```
+git remote rm origin
+```
+
+Then Run command in terminal 
+
+```
+git remote add <your repository link>
+```
+
 # Initializing DFX
 
 Run dfx in separate terminal
